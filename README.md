@@ -1,6 +1,4 @@
-# Selam everyone,
 
-## Uzun zamandır çok fazla spammer yayınlanıyor çok tokenli deniyor ve sürekli hata çıkıyor bu hataları düzeltmemi isteyen çok insan oldu kimi zaman düzeltemedim işte bu yüzden içinde hata bulunmayan basit mantıkla çalışan bir bot yapmak istedim.
 
 # Kurulum
 
